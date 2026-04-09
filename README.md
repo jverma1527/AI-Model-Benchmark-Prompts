@@ -1,6 +1,6 @@
 # Advanced AI Model Test Suite
 
-This repository includes a public markdown prompt set for evaluating AI models across a broad range of capabilities.
+This repository includes a markdown prompt set for evaluating AI models across a broad range of capabilities.
 
 ## File
 
